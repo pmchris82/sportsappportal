@@ -1,0 +1,35 @@
+/react-sportsspp/node_modules/
+
+/SportsApp/HELP.md
+/SportsApp/target/
+!/SportsApp/.mvn/wrapper/maven-wrapper.jar
+!/SportsApp/**/src/main/**/target/
+!/SportsApp/**/src/test/**/target/
+
+### STS ###
+/SportsApp/.apt_generated
+/SportsApp/.classpath
+/SportsApp/.factorypath
+/SportsApp/.project
+/SportsApp/.settings
+/SportsApp/.springBeans
+/SportsApp/.sts4-cache
+
+### IntelliJ IDEA ###
+/SportsApp/.idea
+/SportsApp/*.iws
+/SportsApp/*.iml
+/SportsApp/*.ipr
+
+### NetBeans ###
+/SportsApp/nbproject/private/
+/SportsApp/nbbuild/
+/SportsApp/dist/
+/SportsApp/nbdist/
+/SportsApp/.nb-gradle/
+/SportsApp/build/
+!/SportsApp/**/src/main/**/build/
+!/SportsApp/**/src/test/**/build/
+
+### VS Code ###
+/SportsApp/.vscode/
